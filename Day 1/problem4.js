@@ -1,0 +1,18 @@
+let name="®⃨®⃨®⃨®⃨";
+let school="KDKLSIC";
+let grade="☕";
+let s="unit1";
+let rollno=156;
+let phy=30;
+let chem=40;
+let maths=50;
+let totalmarks=250;
+console.log("name : " + name );
+console.log("school : " + school );
+console.log("grade : " + grade );
+console.log("s : " + s );
+console.log("rollno : " + rollno );
+console.log("phy : " + phy );
+console.log("chem : " + chem );
+console.log("maths : " + maths );
+console.log("totalmarks : " + totalmarks );
